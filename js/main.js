@@ -49,4 +49,17 @@ var testNine = 'five'[0] + 'ever';
 //STRING...."fever"
 
 var testTen = 'a' > 'b';
-//false 
+//BOOLEAN.......false 
+
+var testEleven = 'number' .length < 7;
+// BOOLEAN...true
+
+var testTwelve = '12' == 12;
+
+var testThirteen = 'twelve' == 12;
+
+var testFourteen =  '14' === 14;
+
+var testFifteen =  'Hi there'[0] + 'open sesame'[2] + 
+    'alohamora'[1] + 'eulalia'[4] + 'harkonnen'[4] + 
+    'BATMAN!'[6];
